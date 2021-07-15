@@ -1,3 +1,7 @@
 perejil
 ajo
 berenjena
+
+
+choclo 
+arroz
