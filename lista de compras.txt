@@ -1,7 +1,3 @@
-CHCOCLO 
-TOMATE
-LECHUGA
-
-
-jabon 
-lavandina
+perejil
+ajo
+berenjena
